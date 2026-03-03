@@ -1,0 +1,21 @@
+body { 
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* modify your card size here*/
+#card-container {
+    width: 2.5in;
+    height: 3.5in;
+    outline: 2px solid black;
+}
