@@ -15,7 +15,7 @@ body {
 
 /* modify your card size here*/
 #card-container {
-    width: 2.5in;
-    height: 3.5in;
+    width: 4.5in;
+    height: 5.5in;
     outline: 2px solid black;
 }
